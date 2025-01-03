@@ -1,2 +1,3 @@
-# Curso-Algoritmos-Portugol
- Algoritmo
+# curso-algoritmos-portugol
+ Curso Algoritmos com Portugol Studio
+
